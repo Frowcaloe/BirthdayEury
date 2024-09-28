@@ -6,7 +6,7 @@ body, html {
 
 body {
   margin: 0;
-  background-color: mistyrose;
+  background-color: teal;
   position: relative;
   perspective: 800px;
   overflow: hidden;
@@ -84,13 +84,13 @@ body {
   font-size: 30px;
   line-height: 20px;
   letter-spacing: 2px;
-  color: #ff969f;
+  color: #008080;
 }
 
 .envelope .front .mail p:first-child {
   font-size: 50px;
   line-height: 50px;
-  color: #ff969f;
+  color: #008080;
 }
 
 .envelope .front .mail p:last-child {
